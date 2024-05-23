@@ -1,0 +1,15 @@
+venv/
+
+# *.pyc
+# __pycache__/
+# *.sqlite3
+# *.pyo
+# *.swp
+# *.swo
+# *.log
+# *.bak
+# *.tmp
+# *.db
+# *.DS_Store
+# /staticfiles/
+# /media/
